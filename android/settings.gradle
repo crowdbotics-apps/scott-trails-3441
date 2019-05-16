@@ -1,0 +1,3 @@
+rootProject.name = 'scott_trails_3441'
+
+include ':app'
